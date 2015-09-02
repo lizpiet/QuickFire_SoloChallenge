@@ -1,0 +1,21 @@
+[
+  {
+    "addressLine1": "1084 Sunny Autumn Ledge",
+    "addressLine2": "",
+    "city": "Chuloonawick",
+    "state": "Kentucky",
+    "zip": "40067-3433",
+    "phoneNumber": "(502) 201-2553",
+    "customerId": "1"
+
+  },
+  {
+    "addressLine1": "8411 Stony Robin Front",
+    "addressLine2": "",
+    "city": "Denmark",
+    "state": "Maryland",
+    "zip": "20929-0478",
+    "phoneNumber": "(301) 512-1814",
+    "customerId": "3"
+  }
+]

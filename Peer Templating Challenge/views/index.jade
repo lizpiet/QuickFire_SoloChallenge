@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    each meme in memes
+        include ./memes.jade
+
+    script(id="entry-template" type="text/x-handlebars-template")
+        .row
+            label {{users.text}}

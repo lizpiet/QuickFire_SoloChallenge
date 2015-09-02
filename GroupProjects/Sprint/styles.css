@@ -1,0 +1,44 @@
+#D1A319 yellow
+#E0E0D1 lit grey
+#2C2C28 dk grey;
+
+body {
+    color: yellow;
+}
+
+.front{
+	background-color: #E0E0D1;
+
+/*	width: 200px;
+	height: 200px;
+	border-color: #2C2C28;
+	border-width: 3px;*/
+}
+.client{
+	background-color: ##E0E0D1;
+}
+.server{
+	background-color: #E0E0D1;
+}
+
+
+
+h1
+{
+padding-top: 40px;
+color: #orange;
+font-family: Hemlvetica, "Book Antiqua", "Times New Roman" serif;
+font-size: 55px;
+text-align: center;
+}
+
+p
+{
+color:#008A8A;
+font-family: Helvetica, sans-serif;
+font-weight: bold;
+font-size: 39px;
+
+}
+
+

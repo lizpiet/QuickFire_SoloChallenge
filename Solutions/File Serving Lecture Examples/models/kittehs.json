@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ada Lovelace",
+    "type": "Tabby cat",
+    "id": "0"
+  },
+  {
+    "name": "Alan Turing",
+    "type": "Black cat",
+    "id": "1"
+  },
+  {
+    "name": "Chewy",
+    "type": "Fatty house cat",
+    "id": "2"
+  },
+  {
+    "name": "Simba",
+    "type": "Big cat",
+    "id": "3"
+  },
+  {
+    "name": "Lion-O",
+    "type": "Thunder cat",
+    "id": "4"
+  }
+]

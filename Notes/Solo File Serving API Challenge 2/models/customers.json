@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Bilbo",
+    "lastName": "Baggins",
+    "id": "0"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "\"The One\" Anderson",
+    "id": "1"
+  },
+  {
+    "firstName": "Leslie",
+    "lastName": "Knope",
+    "id": "2"
+  },
+  {
+    "firstName": "Sideshow",
+    "lastName": "Bob",
+    "id": "3"
+  }
+]

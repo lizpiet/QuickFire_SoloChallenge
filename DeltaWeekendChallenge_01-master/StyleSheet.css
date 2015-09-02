@@ -1,0 +1,73 @@
+
+/*//colors per rating
+*/
+
+.lastReview1 {
+
+	background-color: red;
+}
+
+.lastReview2 {
+
+	background-color: yellow;
+}
+
+.lastReview3 {
+
+	background-color: gray;
+}
+
+.lastReview4 {
+
+	background-color: blue;
+}
+
+.lastReview5 {
+
+	background-color: green;
+}
+
+
+form {
+    margin: 45px auto;
+    padding: 1em;
+    border: 5px solid #333333;
+    border-radius: 12px;
+    color: #A3007A;
+    font-family: courier;
+    font-size: 17px;
+    background-color: #EFF2EF;
+    display: block;
+    width: 390px;
+    text-align: right;
+    padding-bottom: 48px;
+}
+
+
+div {
+	margin-top: 25px;
+}
+
+#submit {
+	text-align: center;
+}
+
+
+
+
+h1 {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 35px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #333333;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 79px;
+}
+
+
+
+
+

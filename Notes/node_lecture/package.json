@@ -1,0 +1,26 @@
+{
+  "name": "random",
+  "version": "0.0.0",
+  "description": "A sample Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "0.0.0"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/immense-brook-3811.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "author": "Liz/Vas"
+}

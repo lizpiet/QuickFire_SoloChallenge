@@ -1,0 +1,139 @@
+#D1A319 yellow
+#E0E0D1 lit grey
+#2C2C28 dk grey;
+
+body {
+    color: yellow;
+}
+
+.jumbotron{
+	margin-top: 45px;
+	background-color:black;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 99px;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 1px;
+	color:white;
+	letter-spacing: 2px;
+
+}
+.bar{
+	background-color:#D1A319;
+	height: 19px;
+	margin-top: 0px;
+	padding-top: -20px;
+}
+
+.front{
+	background-color: #E0E0D1;
+	padding:2px 4px 45px 5px;
+	border: 14px white;
+	border-style: solid;
+
+
+
+}
+.client{
+	background-color: #E0E0D1;
+	padding:2px 4px 45px 5px;
+	border: 14px white;
+	border-style: solid;
+
+}
+.server{
+	background-color: #E0E0D1;
+	padding:2px 4px 45px 5px;
+	border: 14px white;
+	border-style: solid;
+}
+h1{
+	/*text-align: center;*/
+	color: black;
+	font-family: helvetica;
+	font-weight: bolder;
+	font-size: 55px;
+	letter-spacing: 2px;
+	margin-left: 65px;
+}
+.row li{
+	color: black;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	letter-spacing: 1px;
+	margin-left: 25px;
+	line-height: 60px;
+	list-style: none;
+
+
+}
+
+.btn{
+
+	line-height: 1.6em;
+	font-family: helvetica;
+	font-size: 59px;
+	font-weight: bold;
+	color: #D1A319;
+	background-color: black;
+	letter-spacing: 2px;
+/*	margin: 20px 0;*/
+	display: block;
+	margin: 0 auto;
+
+	
+}
+.assignButtons{
+/*	margin: 90px 35px 35px 35px;
+*/	display: block;
+	margin: 0 auto;
+
+
+
+}
+
+.btn-info{
+	margin-top: 20px;
+	background-image: none;
+	border-color: black;
+	border-style: solid 3px;
+
+}
+
+.row{
+	 padding-top: 45px;
+	 padding-bottom: 56px;
+}
+.nav{
+	padding-right: 40px;
+}
+
+.navColor{
+	background-color: white;
+
+}
+
+.nav-tabs{
+	border-bottom: none;
+}
+
+.nav-tabs>li{
+	letter-spacing: 1px;
+	font-size: 25px;
+	/*padding: 10px 25px;*/
+	float: right;
+}
+
+.well{
+	width: 200px;
+	border-left: solid;
+	border-color: black;
+
+}
+
+a{
+	color: #2C2C28;
+}
+

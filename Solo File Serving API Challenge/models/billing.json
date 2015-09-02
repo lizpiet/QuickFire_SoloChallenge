@@ -1,0 +1,40 @@
+[
+  {
+    "addressLine1": "1069 Silent Stead",
+    "addressLine2": "",
+    "city": "Crockett",
+    "state": "Wisconsin",
+    "zip": "54356-9458",
+    "phoneNumber": "(715) 769-0662",
+    "customerId": "0"
+
+  },
+  {
+    "addressLine1": "2506 Dusty Key",
+    "addressLine2": "",
+    "city": "Tanwax",
+    "state": "Indiana",
+    "zip": "47351-2307",
+    "phoneNumber": "(765) 033-5890",
+    "customerId": "1"
+  },
+  {
+    "addressLine1": "840 Tawny Road",
+    "addressLine2": "",
+    "city": "Kykotsmovi Village",
+    "state": "New Mexico",
+    "zip": "87598-3362",
+    "phoneNumber": "(505) 824-8655",
+    "customerId": "2"
+
+  },
+  {
+    "addressLine1": "6396 Hidden Vista",
+    "addressLine2": "",
+    "city": "Totopitk",
+    "state": "Vermont",
+    "zip": "05095-1870",
+    "phoneNumber": "(802) 560-9759",
+    "customerId": "3"
+  }
+]

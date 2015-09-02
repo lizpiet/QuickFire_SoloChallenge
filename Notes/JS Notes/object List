@@ -1,0 +1,38 @@
+
+
+
+var Liz = {
+    firstName: "Liz",
+    tempDerbyName:"Jenny Powers",
+    favoriteFood: "Tomatoes",
+    otherFavoriteFood:"Cheese and tomato sandwich, lightly salted on french bread",
+    notFavoriteFood:"Sandwich ham",
+    horror: "Texas Chainsaw Masacre",
+    sequel: "Aliens",
+    graphicNovel: "Locke & Key",
+    musicHero: "Tom Waits",
+    faveTwitterPersonality: "Carrie Fisher",
+    suckerFor: "Sketch Comedy",
+    annoyedBy: "Rob Zombie,",
+    accidentProne: true,
+    imaginationLevel: 10000000005,
+    opionion1: "Carrot cake is overrated, also..... not really cake.",
+    opinion2: "HBO is better than Showtime",
+    recentERVisits: 2
+    colorCombo: "Turquoise & Red"
+
+};
+
+var lifestyle2015 = [ "studying web development","cooking","watering the garden",
+"podcasts and comedy","loving stray cats","roller derby","music","film",
+"forever thinking about Halloween and 'Kids in the Hall' sketches" 
+
+];
+
+
+
+
+
+
+
+

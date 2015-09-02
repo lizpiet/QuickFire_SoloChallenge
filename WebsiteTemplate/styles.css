@@ -1,0 +1,32 @@
+#D1A319 yellow
+#E0E0D1 lit grey
+#2C2C28 dk grey;
+
+body {
+    color: yellow;
+}
+
+.front{
+	background-color: #E0E0D1;
+	padding:2px 4px 2px 5px;
+	border-color: black;
+	border-style: solid;
+}
+.client{
+	background-color: #E0E0D1;
+	padding:2px 4px 2px 5px;
+	border-color: black;
+	border-style: solid;
+}
+.server{
+	background-color: #E0E0D1;
+	padding:2px 4px 2px 5px;
+	border-color: black;
+	border-style: solid;
+}
+
+p{
+
+color:red;
+
+}

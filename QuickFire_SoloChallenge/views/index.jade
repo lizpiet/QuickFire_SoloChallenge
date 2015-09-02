@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    each student in students
+        include ./students.jade
+
+    script(id="entry-template" type="text/x-handlebars-template")
+        .row
+            label {{poop.text}}

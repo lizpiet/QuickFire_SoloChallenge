@@ -1,0 +1,12 @@
+.row
+    .meme(style="background-image: url('" + meme.src + "')")
+
+    form(method="POST")
+        label(for=meme.id) Message:
+        input(type="text" id=meme.id name="message")
+        input(type="submit" value="Submit new message")
+
+    each message in messages
+        if message.id == meme.id
+            .row
+                label= message.text
